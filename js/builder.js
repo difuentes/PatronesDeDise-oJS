@@ -95,7 +95,6 @@ class Button extends Inputs{
     }
 }
 
-
 //instancia Formulario 
 
 const fomulario = new Formulario();
